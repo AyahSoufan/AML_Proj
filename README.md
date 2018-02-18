@@ -1,5 +1,6 @@
 # AML_Proj
 File spec
+
 ・Balancing data.ipynb: to balance the data in terms of class
 
 ・FeatureSelectionbyInformationGain.ipynb: code to calculate the frequency of words and information gain
