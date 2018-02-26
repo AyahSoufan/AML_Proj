@@ -11,3 +11,9 @@ File spec
 ・TextPreprocessing.ipynb: code to pre-process data
 
 ・RandomForest_validation_all(biased).ipynb: code to do primitive random forest using bag of words and confirm the confusion matrix and ROC curve.
+
+Run these files as this order:
+- Data Balancing
+- Data Cleaning
+- Models
+- Submit to Kaggel
