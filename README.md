@@ -12,7 +12,7 @@ File spec
 
 ・RandomForest_validation_all(biased).ipynb: code to do primitive random forest using bag of words and confirm the confusion matrix and ROC curve.
 ###########################################3
-- Grap Train Data from Kaggel 
+- Grab Train Data from Kaggel 
 - Run Cleaning Code
 - Ran Balancing code
 - Run Model Code
