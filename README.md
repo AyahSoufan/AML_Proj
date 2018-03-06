@@ -11,6 +11,14 @@ File spec
 ・TextPreprocessing.ipynb: code to pre-process data
 
 ・RandomForest_validation_all(biased).ipynb: code to do primitive random forest using bag of words and confirm the confusion matrix and ROC curve.
+
+  [00:49, 06/03/2018]
+・Naivebayes_submission.ipynb Predict for test data using Naivebayes. You can try another non NN model using this code
+・LSTM_validaion.ipynb LSTM for tuning parameter.
+・LSTM_submission.ipynb Predict for test data using LSTM. You can try another NN model
+・Average_submission.ipynb Average each prediction.(Since we get prediction from 5 samples)
+・Mean_Ensemble.ipynb Build ensemble model
+
 ###########################################3
 - Grab Train Data from Kaggel 
 - Run Cleaning Code
